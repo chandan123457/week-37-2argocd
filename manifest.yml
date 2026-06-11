@@ -26,10 +26,10 @@ spec:
 apiVersion: v1
 kind: Pod
 metadata:
-  name: httpd
+  name: httpd-backend
 spec:
   containers:
-  - name: httpd
+  - name: httpd-backend
     image: httpd
     ports:
     - containerPort: 80
