@@ -1,14 +1,14 @@
-<<<<<<< HEAD
-=======
-apiVersion: v1
-kind: Pod
-metadata:
-  name: nginx
-spec:
-  containers:
-  - name: nginx
-    image: yuvi062006/school:a21a741991343e1a56c30c680d7b7ac2ccb7d1d3
-    ports:
-    - containerPort: 80
+# <<<<<<< HEAD
+# =======
+# apiVersion: v1
+# kind: Pod
+# metadata:
+#   name: nginx
+# spec:
+#   containers:
+#   - name: nginx
+#     image: yuvi062006/school:a21a741991343e1a56c30c680d7b7ac2ccb7d1d3
+#     ports:
+#     - containerPort: 80
 
->>>>>>> bae43b1 (remove nginx pod)
+# >>>>>>> bae43b1 (remove nginx pod)
